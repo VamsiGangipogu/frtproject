@@ -6,5 +6,5 @@ This is my frt project demo
 This is my frt project link #githublink  https://vamsigangipogu.github.io/frtproject/contact.html
 
 
-I have created a chocolate store website using HTML, CSS ,JAVASCRIPT it helps the people to prepare their desired items.In this website i make three pages named about ,index and contact.this app help people to try different type of blogs 
-And core idea of this project was to provide people a eco friendly website
+
+I have created a chocolate store website using HTML, CSS  ,JAVASCRIPT  it helps the people to prepare their desired items.In this website i make three pages named about ,index and contact This app help people to try different dishes at thier home .The core idea of project is to provide people a Eco friendly web site for people to try something new.This can solve the problem of people who are willing to make there favorite
